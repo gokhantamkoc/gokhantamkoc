@@ -2,7 +2,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-@gokhan.tamkoc-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gokhan.tamkoc/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-@gokhantamkoc-informational?style=flat&logo=twitter&logoColor=white&color=0D76A8)](https://twitter.com/gokhantamkoc)
 
-- 🔭 I’m currently working on golang projects.
+- 🔭 I’m currently working on python projects.
 - Ask me about java, keycloak, golang, docker, docker-compose, python3
 
 
